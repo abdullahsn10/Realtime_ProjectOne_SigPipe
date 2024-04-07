@@ -1,0 +1,17 @@
+
+
+#ifndef __CONSTANTS_H
+#define __CONSTANTS_H
+
+
+int NUMBER_OF_TEAMS;
+int NUMBER_OF_PLAYERS;
+int ROUND_DURATION;
+int NUMBER_OF_ROUNDS;
+
+#define MAX_LEVEL_ENERGY 100
+#define MIN_LEVEL_ENERGY 50
+
+#endif
+
+
